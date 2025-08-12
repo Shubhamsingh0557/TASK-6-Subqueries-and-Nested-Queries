@@ -9,7 +9,7 @@ By practicing these queries, we will--
 
 Files Included:
 
-    TASK6.sql - SQL subqueries help break down complex logic into manageable parts and allow dynamic filtering, calculations, and        joins.
+    TASK6.sql - SQL subqueries help break down complex logic into manageable parts and allow dynamic filtering, calculations, and joins.
 
 
 
